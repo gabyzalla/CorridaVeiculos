@@ -1,5 +1,5 @@
 
-public abstract class veiculo {
+public abstract class Veiculo {
     private String nome;
     private int velocidade;
 

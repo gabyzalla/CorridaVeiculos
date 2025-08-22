@@ -1,8 +1,6 @@
-public class carro extends Veiculo {
+public class Carro extends Veiculo {
 
-    
     public Carro() {
-        
         super("Carro", 120);
     }
 

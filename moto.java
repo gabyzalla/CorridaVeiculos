@@ -1,4 +1,4 @@
-public class moto extends Veiculo {
+public class Moto extends Veiculo {
 
     public Moto() {
         super("Moto", 150);

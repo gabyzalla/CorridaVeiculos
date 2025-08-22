@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class corridaVeiculos {
+public class CorridaVeiculos {
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
