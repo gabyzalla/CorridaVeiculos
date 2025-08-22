@@ -1,4 +1,3 @@
-
 public abstract class Veiculo {
     private String nome;
     private int velocidade;
@@ -16,6 +15,5 @@ public abstract class Veiculo {
         return this.velocidade;
     }
 
-    
     public abstract void mover();
 }
