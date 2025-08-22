@@ -1,4 +1,4 @@
-public class Carro extends Veiculo {
+public class carro extends Veiculo {
 
     
     public Carro() {
